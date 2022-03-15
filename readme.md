@@ -10,7 +10,7 @@
 
 - 1、原理简介
 
-<iframe src="//player.bilibili.com/player.html?aid=809858353&bvid=BV1834y1t7en&cid=549630250&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
 
 - 2、实现步骤
 
