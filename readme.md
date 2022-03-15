@@ -10,7 +10,7 @@
 
 - 1、原理简介
 
-https://user-images.githubusercontent.com/66900665/158285806-52c671f9-025f-4b24-9efd-9b9fcbda1b59.mp4
+<iframe src="//player.bilibili.com/player.html?aid=767004778&bvid=BV1jr4y167wN&cid=544013124&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 - 2、实现步骤
 
