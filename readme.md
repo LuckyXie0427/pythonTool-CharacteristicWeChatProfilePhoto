@@ -10,6 +10,8 @@
 
 - 1、原理简介
 
+https://user-images.githubusercontent.com/66900665/158285806-52c671f9-025f-4b24-9efd-9b9fcbda1b59.mp4
+
 - 2、实现步骤
 
 - - 2.1. 读取图片
